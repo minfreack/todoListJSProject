@@ -1,6 +1,6 @@
 # Webpack Starter
 
- Este es el proyecto inicial para crear aplicaciones usando Webpack
+ Este es el proyecto TodoList
 
 ## Notas:
 
